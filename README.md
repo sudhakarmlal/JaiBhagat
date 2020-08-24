@@ -1,6 +1,6 @@
 # Here are the hands of poker
 
-## Royal flush (the problem didn’t ask me to consider Royal Flush)
+## Royal flush 
 A, K, Q, J, 10, all the same suit.
 
 ## Straight flush
